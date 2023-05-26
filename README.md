@@ -1,2 +1,2 @@
 wassup github
-its my first code
+its my first code  :)
